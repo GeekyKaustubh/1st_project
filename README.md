@@ -1,4 +1,3 @@
 # Data Analysis Using 'Pandas'
-The provided file showcase the data analysis based on python library 'Pandas'. The raw data taken as csv that contains information about Netflix Movies  & Series.
-The motive to filtering data is to create useful insigts out of it such as Top rated movies or Duration of Content. This data analysis is useful to check the responce of audience towards perticular genre and average availability of time to watch.
-The insights of the data could help to understand and generate such movies and contains that makes more views and rating.
+The provided file showcases a data analysis using Python's Pandas library on a CSV dataset containing Netflix movies and series. The analysis aims to uncover valuable insights, such as identifying top-rated content and determining optimal viewing durations. By analyzing audience preferences for genres and content length, this study can help Netflix make informed decisions about future content acquisition and production, ultimately driving viewership and ratings.
+
